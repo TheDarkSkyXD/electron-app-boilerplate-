@@ -1,4 +1,4 @@
-<h1 align="center"><img src="./images/bullet.svg" width="20" /> Releasing</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/daltonmenezes/electron-app/refs/heads/main/docs/images/bullet.svg" width="20" /> Releasing</h1>
 
 > [!NOTE]
 > to be able to perform `auto-updates` you will need a `code signed app`, for this purpose you will need to configure it by yourself, so check the [electron-builder](https://www.electron.build/code-signing) and [action-electron-builder](https://github.com/daltonmenezes/action-electron-builder#code-signing) docs please to get know how to do this.

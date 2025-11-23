@@ -1,4 +1,4 @@
-<h1 align="center"><img src="./images/bullet.svg" width="20" /> Structure Overview</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/daltonmenezes/electron-app/refs/heads/main/docs/images/bullet.svg" width="20" /> Structure Overview</h1>
 
 <br/>
 

@@ -1,4 +1,4 @@
-<h1 align="center"><img src="./images/bullet.svg" width="20" /> Source Code Protection</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/daltonmenezes/electron-app/refs/heads/main/docs/images/bullet.svg" width="20" /> Source Code Protection</h1>
 
 > This process is done via [v8 bytecode compilation](https://nodejs.org/api/vm.html#vm_script_createcacheddata), to get more knowledge about it, please, [check the Electron Vite docs](https://evite.netlify.app/guide/source-code-protection.html).
 

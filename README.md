@@ -1,4 +1,4 @@
-<h1 align="center"><img src="./docs/images/bullet.svg" width="19" /> Electron App</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/daltonmenezes/electron-app/refs/heads/main/docs/images/bullet.svg" width="19" /> Electron App</h1>
 
 <p align="center">💅 An Electron app boilerplate with React v19, TypeScript v5, Tailwind v4, shadcn/ui, Electron Vite, Biome, <strong>GitHub Action releases</strong> and more.
   <br/><br/>
@@ -26,7 +26,7 @@
   </a>
 </p>
 
-# <img src="./docs/images/bullet.svg" width="19" /> Features
+# <img src="https://raw.githubusercontent.com/daltonmenezes/electron-app/refs/heads/main/docs/images/bullet.svg" width="19" /> Features
 - **Stands out**
   - 🔥 Fast and Ready-to-go with a well-thought-out structure
   - 🚀 Auto reload for main and **Fast Refresh** for renderer process
@@ -54,11 +54,11 @@
 
 > :warning: If **Windows 7** and **8** support is important for your project, you should know that Electron in a version greater than 22x no longer supports it. You can read more about it [here](https://www.electronjs.org/docs/latest/breaking-changes#removed-windows-7--8--81-support). Therefore, you must downgrade Electron to 22x version if it's important for you!
 
-# <img src="./docs/images/bullet.svg" width="19" /> Requirements
+# <img src="https://raw.githubusercontent.com/daltonmenezes/electron-app/refs/heads/main/docs/images/bullet.svg" width="19" /> Requirements
 - [Node.js 22](https://nodejs.org/en/download/)
 - [pnpm 10](https://pnpm.io/installation)
 
-# <img src="./docs/images/bullet.svg" width="19" /> Installation
+# <img src="https://raw.githubusercontent.com/daltonmenezes/electron-app/refs/heads/main/docs/images/bullet.svg" width="19" /> Installation
 ```bash
 npx degit daltonmenezes/electron-app/template project_name
 ```
@@ -70,11 +70,11 @@ pnpm dev
 
 Now, look at the **package.json** file in the root directory, you should update some of that settings with your project branding.
 
-# <img src="./docs/images/bullet.svg" width="14" /> Adding new dependencies
+# <img src="https://raw.githubusercontent.com/daltonmenezes/electron-app/refs/heads/main/docs/images/bullet.svg" width="14" /> Adding new dependencies
 For security reasons, **pnpm** has the [onlyBuiltDependenciesFile](https://pnpm.io/package_json#pnpmonlybuiltdependenciesfile) property where only 
 dependencies listed in the [trusted-dependencies-scripts.json](./template/trusted-dependencies-scripts.json) file can perform the postscripts execution. So, if you want to add a new dependency that needs to run a postscript, you should add it to the [trusted-dependencies-scripts.json](./template/trusted-dependencies-scripts.json) file list.
 
-# <img src="./docs/images/bullet.svg" width="14" /> Distribution
+# <img src="https://raw.githubusercontent.com/daltonmenezes/electron-app/refs/heads/main/docs/images/bullet.svg" width="14" /> Distribution
 
 > [!NOTE]
 > this section refers to local distribution, to release your app from GitHub Actions, see [Releasing](./docs/RELEASING.md) section.
@@ -99,7 +99,7 @@ pnpm build --linux
 
 The builded apps will be available in the `dist` folder.
 
-# <img src="./docs/images/bullet.svg" width="19" /> Documents
+# <img src="https://raw.githubusercontent.com/daltonmenezes/electron-app/refs/heads/main/docs/images/bullet.svg" width="19" /> Documents
 <table>
   <tr>
     <td valign="center">

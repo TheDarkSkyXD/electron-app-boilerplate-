@@ -1,4 +1,4 @@
-<h1 align="center"><img src="./images/bullet.svg" width="20" /> FAQ - Frequently Asked Questions</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/daltonmenezes/electron-app/refs/heads/main/docs/images/bullet.svg" width="20" /> FAQ - Frequently Asked Questions</h1>
 
 ## How can I fix the `electron-builder install-app-deps Windows Script Host` error?
 If you are trying to use this boilerplate with npm instead pnpm on Windows, you will get that error related to `electron-builder install-app-deps`, so:
