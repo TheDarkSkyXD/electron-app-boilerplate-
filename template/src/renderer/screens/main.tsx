@@ -19,7 +19,7 @@ export function MainScreen() {
   const userName = App.username || 'there'
 
   return (
-    <main className="flex flex-col items-center justify-center h-screen bg-black">
+    <main className="flex flex-col items-center justify-center h-screen bg-background">
       <Alert className="mt-5 bg-transparent border-transparent text-accent w-fit">
         <AlertTitle className="text-5xl text-teal-400">
           Hi, {userName}!
