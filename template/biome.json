@@ -11,9 +11,6 @@
     },
     "enabled": true
   },
-  "files": {
-    "experimentalScannerIgnores": ["dist", "node_modules"]
-  },
   "formatter": {
     "enabled": true,
     "indentStyle": "space",
@@ -58,6 +55,11 @@
         "noExplicitAny": "off",
         "noUnknownAtRules": "off"
       }
+    }
+  },
+  "css": {
+    "parser": {
+      "tailwindDirectives": true
     }
   }
 }
