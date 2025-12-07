@@ -61,5 +61,14 @@
     "parser": {
       "tailwindDirectives": true
     }
+  },
+  "files": {
+    "includes": [
+      ".",
+      "src/**/*",
+      "!src/lib/electron-app/extensions/**/*",
+      "!node_modules/**/*",
+      "!dist/**/*"
+    ]
   }
 }
